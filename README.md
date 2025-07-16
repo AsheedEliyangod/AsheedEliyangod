@@ -54,7 +54,7 @@
 ## Top Contributions
 
 - Developed multiple frontend projects using **React**, **JavaScript**, **HTML5**, and **CSS3**, showcasing strong skills in building responsive and interactive web interfaces.
-- Integrated backend technologies including **Python**, **MySQL**, and **MongoDB** to support full-stack development capabilities.
+- Integrated backend technologies including **Python**, **MySQL** to support full-stack development capabilities.
 - Continuously expanding expertise into **game development**, demonstrating a commitment to learning and diversifying technical skills.
 - Experienced in deploying projects with platforms like **Vercel** and managing servers using **Apache**.
 - Open to collaboration and contributing to web development projects, with a focus on clean, efficient, and maintainable code.
