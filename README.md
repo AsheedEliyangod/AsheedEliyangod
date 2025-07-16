@@ -15,10 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsheedEliyangod&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### TOP CONTRIBUTIONS
 ## Top Contributions
 
 - Developed multiple frontend projects using **React**, **JavaScript**, **HTML5**, and **CSS3**, showcasing strong skills in building responsive and interactive web interfaces.
