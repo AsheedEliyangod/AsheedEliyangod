@@ -1,83 +1,107 @@
-# 🎮 Asheed Eliyangod — Game Developer
+# 🎮 Asheed Eliyangod
 
-> "Not just playing games… building worlds."
+### Unity Game Developer | Gameplay Programmer | Computer Science Student
+
+> "I don't just play games—I analyze how they work and build them myself."
 
 ---
 
 ## 🚀 About Me
 
-🔭 Building a **story-driven narrative game**
-🧠 Focused on **game mechanics, storytelling & immersion**
-🎯 Goal: Create a **unique supernatural action experience**
-⚡ Turning ideas into playable worlds
+I'm a Computer Science student and aspiring Game Developer passionate about creating engaging gameplay experiences.
+
+Currently, I'm focused on:
+
+* 🎮 Unity Game Development
+* 💻 Learning C# through real projects
+* 🌲 Building a Survival Game
+* 🧩 Gameplay Systems & Mechanics
+* 🐛 Debugging and Problem Solving
+* 🌍 Creating Interactive Worlds
+
+I enjoy breaking down game mechanics, understanding how systems work, and turning ideas into playable experiences.
 
 ---
 
-## 🧰 Game Dev Arsenal
+## 🛠️ Technologies & Tools
 
-### 🎮 Engines & Creation Tools
+### Game Development
 
-![Unreal Engine](https://img.shields.io/badge/UNREAL%20ENGINE-000000?style=for-the-badge\&logo=unrealengine\&logoColor=white\&labelColor=0d1117)
-![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge\&logo=unity\&logoColor=white\&labelColor=0d1117)
-![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white\&labelColor=0d1117)
-![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge\&logo=blender\&logoColor=white\&labelColor=0d1117)
+* Unity
+* Unreal Engine
+* Godot
+* Blender
 
----
+### Programming
 
-### 💻 Programming Languages
+* C#
+* C++
+* C
+* Python
+* JavaScript
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white\&labelColor=0d1117)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white\&labelColor=0d1117)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white\&labelColor=0d1117)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=0d1117)
+### Other Tools
 
----
-
-## 🎯 Current Mission
-
-🧩 Designing a **story-based narrative game**
-🎮 Building gameplay systems in **Unreal Engine**
-🧍 Creating custom **main character (college student concept)**
-🌍 Developing immersive environments & interactions
+* Git & GitHub
+* Visual Studio
+* VS Code
 
 ---
 
-## 🧠 Special Focus
+## 🎯 Current Projects
 
-* Narrative Design 🧾
-* Gameplay Mechanics 🎮
-* Level Design 🗺️
-* Character Creation 🧍
-* Cinematic Experience 🎬
+### 🌲 Survival Game
 
----
+Features currently being developed:
 
-## 🔥 Dev Status
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING%20MY%20GAME-red?style=for-the-badge\&labelColor=0d1117)
-![Mode](https://img.shields.io/badge/MODE-INDIE%20DEV-blueviolet?style=for-the-badge\&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/FOCUS-STORY%20%2B%20GAMEPLAY-success?style=for-the-badge\&labelColor=0d1117)
+* Resource Gathering
+* Inventory System
+* Tree & Rock Interactions
+* Item Collection
+* UI Systems
+* World Building
+* Gameplay Mechanics
 
 ---
 
-## 🌐 Connect
+## 📚 Currently Learning
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/_asheed_e_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/asheed-eliyangod/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/@Solo_Rivalyt)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AsheedEliyangod\&theme=vue-dark\&hide_border=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsheedEliyangod\&theme=vue-dark\&hide_border=true)
+* C# Programming
+* Unity Gameplay Programming
+* Object-Oriented Programming
+* Game Architecture
+* Inventory & Crafting Systems
+* Optimization Techniques
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Experience
 
-<img src="https://raw.githubusercontent.com/AsheedEliyangod/AsheedEliyangod/output/github-snake-dark.svg" />
+* Global Game Jam Participant
+* Personal Game Development Projects
+* Portfolio Development
+* Gameplay System Prototyping
 
 ---
+
+## 🎯 Goals
+
+* Publish Complete Games
+* Strengthen C# Skills
+* Build a Strong Game Development Portfolio
+* Join a Professional Game Development Team
+* Create Memorable Gameplay Experiences
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/asheed-eliyangod
+* Instagram: https://instagram.com/_asheed_e_
+* YouTube: https://youtube.com/@Solo_Rivalyt
+
+---
+
+## ⚡ Fun Fact
+
+When I play games, I naturally start analyzing the mechanics, systems, and logic behind them. That curiosity is what drives me to become a better game developer every day.
